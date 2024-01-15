@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, soy Rubiño Pablo</h1>
-<h3 align="center">Soy Full Stack Devoleper en Argentina</h3>
+<h3 align="center">Soy Full Stack Developer en Argentina</h3>
 
 <p align="start"> Me dedico a crear soluciones web a medida para diferentes tipos de clientes. Actualmente soy TA en Soy Henry, una plataforma de educación online que ofrece cursos intensivos de programación web a miles de estudiantes de toda Latinoamérica. Mi objetivo es ayudar a formar a los desarrolladores del futuro y contribuir al crecimiento del sector tecnológico en la región.
 
