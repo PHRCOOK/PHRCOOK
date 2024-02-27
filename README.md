@@ -4,8 +4,8 @@
 
 <p align="start"> Me dedico a crear soluciones web a medida para diferentes tipos de clientes. Actualmente soy TA en Soy Henry. Mi objetivo es ayudar a formar a los desarrolladores del futuro y contribuir al crecimiento del sector tecnológico en la región.
 
-Las tecnologias en las que tengo amplios conocimientos como: HTML, CSS, JavaScript, React, Node.js, Express, Postgres.
-Me gusta estar al día de las últimas tendencias y herramientas del mercado y aprender nuevas habilidades que me permitan mejorar mi desempeño profesional. Mi estilo de trabajo se caracteriza por ser ágil, eficiente y orientado al detalle.
+Las tecnologias en las que tengo amplios conocimientos son : HTML, CSS, JavaScript, React, Node.js, Express, Postgres.
+Me gusta estar al día de las últimas tendencias y herramientas del mercado , aprender nuevas habilidades que me permitan mejorar mi desempeño profesional. Mi estilo de trabajo se caracteriza por ser ágil, eficiente y orientado al detalle.
 
 Además de ser un apasionado de la programación web, Soy padre de familia y chef. Disfruto de pasar tiempo con mis seres queridos y de cocinar platos deliciosos y saludables. Considero que la cocina es otra forma de expresar mi creatividad y de compartir mi cultura y valores.
 
