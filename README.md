@@ -7,7 +7,7 @@
 Las tecnologias en las que tengo amplios conocimientos son : HTML, CSS, JavaScript, React, Node.js, Express, Postgres.
 Me gusta estar al día de las últimas tendencias y herramientas del mercado , aprender nuevas habilidades que me permitan mejorar mi desempeño profesional. Mi estilo de trabajo se caracteriza por ser ágil, eficiente y orientado al detalle.
 
-Además de ser un apasionado de la programación web, Soy padre de familia y chef. Disfruto de pasar tiempo con mis seres queridos y de cocinar platos deliciosos y saludables. Considero que la cocina es otra forma de expresar mi creatividad y de compartir mi cultura y valores.
+Además de ser un apasionado de la programación web, Soy padre de familia y chef. Disfruto de pasar tiempo con mis seres queridos y de cocinar platos deliciosos y saludables. Considero que la cocina es otra forma de expresar mi creatividad, compartir mi cultura y valores.
 
 Si quieres saber más sobre MI, también puedes contactarme por correo electrónico o por LinkedIn, donde estare encantado de responder a tus consultas, propuestas o sugerencias. <p>
 
