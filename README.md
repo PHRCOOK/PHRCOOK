@@ -14,7 +14,7 @@ Si quieres saber más sobre MI, también puedes contactarme por correo electrón
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phrcook&label=Profile%20views&color=0e75b6&style=flat" alt="phrcook" /> </p>
 
-- 🔭 Actualmente trabajando en el proyecto final **Gymweb**
+- 🔭 Aprobado el proyecto final **Gymweb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
